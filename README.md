@@ -6,7 +6,7 @@ I am a Data Scientist, graduate of the Explore’s Data Science Accelerator [Oct
 
 ## Projects
 
-This is a list of the projects I worked on or currently working on. It is updated regularly. Click on the projects to see full analysis and code.
+This is a list of some machine learning projects I worked on or currently working on. It is updated regularly. Click on the projects to see full analysis and code.
 
 ---
 
