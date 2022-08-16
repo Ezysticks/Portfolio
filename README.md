@@ -96,7 +96,7 @@ In this project, I:
 
 ### [EDSA: Spain Electricity Shortfall Challenge](https://github.com/Ezysticks/load-shortfall-regression-predict-api/blob/master/Advanced-Regression-Starter-Data/Versions_Team_9_EDSA/3.1%20starter-notebook-checkpoint_.ipynb)
 
-![pic](pictures/explore-edsa-image.jpg)
+![pic](Pictures/explore-edsa-image.jpg)
 
 This project was part of the requirement to complete the Advanced Regression Predict within EDSA's Data Science course. The government of Spain was considering an expansion of it's renewable energy resource infrastructure investments. As such, they require information on the trends and patterns of the countries renewable sources and fossil fuel energy generation.I was tasked to:
 
