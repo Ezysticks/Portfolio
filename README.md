@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a Data Scientist, graduate of the Explore’s Data Science Accelerator [Oct 2021] program, and completed my first degree in Civil Engineering at Nnamdi Azikiwe University Awka. More information about my academic journey can be found in [my website](https://sites.google.com/view/e-israel/home). [My Linkedin](https://www.linkedin.com/in/israel-ezema-009530195/). [My resume](https://drive.google.com/file/d/1BLaZAj37Xn0cVAKfArk0Q1p6G0MaVcbC/view?usp=sharing). [My Kaggle](https://www.kaggle.com/israelezema)
+I am a Data Scientist, graduate of the Explore’s Data Science Accelerator [Oct 2021] program, and completed my first degree in Civil Engineering at Nnamdi Azikiwe University Awka. More information about my academic journey can be found in [My Website](https://sites.google.com/view/e-israel/home), [My Linkedin](https://www.linkedin.com/in/israel-ezema-009530195/), [My Resume](https://drive.google.com/file/d/1BLaZAj37Xn0cVAKfArk0Q1p6G0MaVcbC/view?usp=sharing), and [My Kaggle](https://www.kaggle.com/israelezema)
 
 ## Projects
 
@@ -96,7 +96,7 @@ In this project, I:
 
 ### [EDSA: Spain Electricity Shortfall Challenge](https://github.com/Ezysticks/load-shortfall-regression-predict-api/blob/master/Advanced-Regression-Starter-Data/Versions_Team_9_EDSA/3.1%20starter-notebook-checkpoint_.ipynb)
 
-![pic](pictures/pic.PNG)
+![pic](pictures/explore-edsa-image.jpg)
 
 This project was part of the requirement to complete the Advanced Regression Predict within EDSA's Data Science course. The government of Spain was considering an expansion of it's renewable energy resource infrastructure investments. As such, they require information on the trends and patterns of the countries renewable sources and fossil fuel energy generation.I was tasked to:
 
