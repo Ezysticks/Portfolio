@@ -12,7 +12,7 @@ This is a list of some machine learning projects I worked on or currently workin
 
 ### [EDSA/AiGlass: Carbon Emission Analysis & Prediction](https://github.com/EDSA-Internship-Group-3/co2-emission-analysis)
 
-![Comparison: Top 20 Countries with CO2_Emission_per_Capita](Pictures/CO2_emmision_comparison.jpg)
+![Comparison: Top 20 Countries with CO2_Emission_per_Capita](Pictures/CO2_emmision_comparison.PNG)
 
 As the world becomes even more modernized by the year, it's becoming all the more POLLUTED. UN Official Data States:
 1. Over 3 BILLION PEOPLE of the world’s 8 Billion people are affected by degrading ecosystems 
