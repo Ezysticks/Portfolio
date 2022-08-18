@@ -13,7 +13,7 @@ This is a list of some machine learning projects I worked on or currently workin
 ---
 
 
-### 1. [FUTURE PROJECT: Financial Market Prediction System]()
+### 1. [FUTURE PROJECT: Financial Market Prediction System (PRIVATE)](https://github.com/Ezysticks/Financial_Market_Prediction_System)
 
 ![Image header](Pictures/financial_future_scope.png)
 
@@ -28,7 +28,7 @@ The idea will be for the bot to be able advise users of entry points with 95% ch
 
 ---
 
-### 2. [EDSA/AiGlass: Carbon Emission Analysis & Prediction](https://github.com/EDSA-Internship-Group-3/co2-emission-analysis)
+### 2. [EDSA/AiGlass: Carbon Emission Analysis & Prediction (PUBLIC)](https://github.com/EDSA-Internship-Group-3/co2-emission-analysis)
 
 ![Comparison: Top 20 Countries with CO2_Emission_per_Capita](Pictures/CO2_emmision_comparison.png)
 
@@ -58,7 +58,7 @@ Coal and Petroleum/other liquids have been the dominant energy source contributi
 ---
 
 
-### 3. [EDSA/AI Incorporated: Streamlit-based: Movie Recommender System](https://github.com/2110ACDS-T4/unsupervised-predict-streamlit-template/blob/master/Team%204/Notebooks/3.0_EDSA_movie_recommendation_2022_Notebook.ipynb)
+### 3. [EDSA/AI Incorporated: Streamlit-based: Movie Recommender System (PUBLIC)](https://github.com/2110ACDS-T4/unsupervised-predict-streamlit-template/blob/master/Team%204/Notebooks/3.0_EDSA_movie_recommendation_2022_Notebook.ipynb)
 
 ![Image header](https://github.com/2110ACDS-T4/unsupervised-predict-streamlit-template/blob/master/resources/imgs/Image_header.png)
 
@@ -75,7 +75,7 @@ This project was part of the requirement to complete the Unsupervised Predict wi
 ---
 
 
-### 4. [EDSA/DataWare Solutions - Climate Change Belief Analysis 2022](https://github.com/2110ACDS-T12/classification-predict-streamlit-template/blob/master/Project%20File/5.0%20Advance_Classification_Notebook.ipynb)
+### 4. [EDSA/DataWare Solutions - Climate Change Belief Analysis 2022 (PUBLIC)](https://github.com/2110ACDS-T12/classification-predict-streamlit-template/blob/master/Project%20File/5.0%20Advance_Classification_Notebook.ipynb)
 
 ![pic](https://camo.githubusercontent.com/c57ebd961169e55085c23e5cea0eddaef383d1aa5ea187f122d6c293552573f5/68747470733a2f2f696d67732e7365617263682e62726176652e636f6d2f6d2d5374454971416f723650656a7a684f31514971566677594650347a6e726645436f30504e7a4464634d2f72733a6669743a313230303a3738383a312f673a63652f6148523063484d364c793930595856692f62574675593239736247566e5a5335312f62576c6a6143356c5a48557663326c302f5a584d765a47566d595856736443396d2f6157786c6379397a64486c735a584d762f5a6d3931636c396a62327831625735662f5a6d5668644856795a53397764574a732f61574d765a6d5668644856795a5752662f615731685a32567a4c304e73615731682f6447557451326868626d646c4c555a6c2f59584a7a587a4175616e426e50326c302f623273395654567063326872515849)
 
@@ -94,7 +94,7 @@ This project was part of the requirement to complete the Classification Predict 
 
 ---
 
-### 5. [EDSA Classification Hackathon: South African language Identification](https://github.com/Ezysticks/south_african_language_identification)
+### 5. [EDSA Classification Hackathon: South African language Identification (PUBLIC)](https://github.com/Ezysticks/south_african_language_identification)
 
 ![pic](https://camo.githubusercontent.com/43ac0c5125127da70afff57a96fbf4044e446209d6961a2f7fb4258951ad53f4/68747470733a2f2f7777772e676f6f676c65617069732e636f6d2f646f776e6c6f61642f73746f726167652f76312f622f6b6167676c652d757365722d636f6e74656e742f6f2f696e626f78253246323230353232322532463766333435343463316231663631643161353934396264646163666438346139253246536f7574685f4166726963615f6c616e6775616765735f323031312e6a70673f67656e65726174696f6e3d3136303433393336363933333930333426616c743d6d65646961)
 
@@ -112,7 +112,7 @@ In this project, I:
 
 ---
 
-### 6. [EDSA: Spain Electricity Shortfall Challenge](https://github.com/Ezysticks/load-shortfall-regression-predict-api/blob/master/Advanced-Regression-Starter-Data/Versions_Team_9_EDSA/3.1%20starter-notebook-checkpoint_.ipynb)
+### 6. [EDSA: Spain Electricity Shortfall Challenge (PUBLIC)](https://github.com/Ezysticks/load-shortfall-regression-predict-api/blob/master/Advanced-Regression-Starter-Data/Versions_Team_9_EDSA/3.1%20starter-notebook-checkpoint_.ipynb)
 
 ![pic](Pictures/explore-edsa-image.jpg)
 
