@@ -21,7 +21,7 @@ It’s becoming more obvious that the world of money is becoming more digitized 
 
 My aim is to Build a BOT; That combines both mentioned below for an enhanced future predictions;
 * Sentimental analysis of Financial News & Tweets/comments from Major Influencers (ML could provide option for User to input focus sources of financial News or Influencer), and
-* Trend Prediction & Signal type identification 
+* Trend Prediction & Signal type identification:  
 The idea will be for the bot to be able advise users of entry points with 95% chances of success, whether it’s going to be long-term or short-term buy or sell.
 
 **Keywords:** Recommendation algorithm, Sentimental analysis, Predictive learning, Exploratory Data Analysis (EDA)
