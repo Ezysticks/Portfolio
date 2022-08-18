@@ -9,6 +9,7 @@ I am a Data Scientist, graduate of the Explore’s Data Science Accelerator [Oct
 This is a list of some machine learning projects I worked on or currently working on. It is updated regularly. Click on the projects to see full analysis and code.
 
 **Future Area of Interest:**  Medical Diagnosis,  Predictive Maintenance,  Financial Analysis etc.
+
 ---
 
 
