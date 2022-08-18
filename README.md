@@ -14,7 +14,7 @@ This is a list of some machine learning projects I worked on or currently workin
 
 ### 1. [FUTURE PROJECT: Financial Market Prediction System]()
 
-![Image header](Pictures/future_scope_pix.png)
+![Image header](Pictures/financial_future_scope.png)
 
 It’s becoming more obvious that the world of money is becoming more digitized for transitionary and representative purposes backed by actual gold reserves, and the Global financial market is summarized in screens as graphs and candle sticks. The ability to stike the right BUY or SELL becomes even more relevant in this day and age. Imagine having a bot which does all the hard work of monitoring trends, news and market influencers comment as well, and being able to give finacial advises with a prediction accuracy of about 90%. That will be a gold mine. 
 
