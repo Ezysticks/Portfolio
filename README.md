@@ -16,7 +16,7 @@ This is a list of some machine learning projects I worked on or currently workin
 
 ![Image header](Pictures/future_scope_pix.png)
 
-It’s becoming more obvious that world of money is becoming more digitized for transitionary and representative purposes backed up by actual reserves, and the Global financial market will all be screens and graph. Imagine having a bot who does all the hard work of trend monitoring, news and influencers comment monitoring as well, with a prediction accuracy of about 90%
+It’s becoming more obvious that the world of money is becoming more digitized for transitionary and representative purposes backed by actual gold reserves, and the Global financial market is summarized in screens as graphs and candle sticks. The ability to stike the right BUY or SELL becomes even more relevant in this day and age. Imagine having a bot which does all the hard work of monitoring trends, news and market influencers comment as well, and being able to give finacial advises with a prediction accuracy of about 90%. That will be a gold mine. 
 
 My aim is to Build a BOT; That combines both mentioned below for an enhanced future predictions;
 * Sentimental analysis of Financial News & Tweets/comments from Major Influencers (ML could provide option for User to input focus sources of financial News or Influencer), and
