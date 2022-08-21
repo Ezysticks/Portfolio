@@ -17,13 +17,13 @@ This is a list of some machine learning projects I worked on or currently workin
 
 ![Image header](Pictures/financial_future_scope.png)
 
-It’s becoming more obvious that the world of money is becoming more digitized for transitionary and representative purposes backed by actual gold reserves, and the Global financial market is summarized in screens as graphs and candle sticks. The ability to stike the right BUY or SELL becomes even more relevant in this day and age. Imagine having a bot which does all the hard work of monitoring trends, news and market influencers comment as well, and being able to give finacial advises with a prediction accuracy of about 90%. That will be a gold mine. 
+It’s becoming more obvious that the world of money is becoming more digitized for transitionary and representative purposes backed by actual gold reserves, and the Global financial market is summarized in screens as graphs and candle sticks. The ability to stike the right BUY or SELL becomes even more relevant in this day and age. Imagine having a model which does all the hard work of monitoring trends, news and market influencers comment as well, and being able to make future prediction based on percentage of probability. That will be a gold mine. 
 
-My aim is to Build a BOT; That combines the following for an enhanced future predictions;
+My aim is to Build a Model that can be integrated into a Bot. The Model combines the following for an enhanced future predictions;
 * Sentimental analysis of Financial News & Tweets/comments from Major Influencers (ML could provide option for User to input focus sources of financial News or Influencer), and
 * Trend Prediction (Regressional) & 
 * Signal type identification (Image detection):  
-The idea will be for the bot to be able advise users of entry points with 95% chances of success, whether it’s going to be long-term or short-term buy or sell.
+The idea will be for the model to be able advise users of entry points ranked by percentage of success rate.
 
 **Keywords:** Recommendation algorithm, Sentimental analysis, Predictive learning, Exploratory Data Analysis (EDA)
 
