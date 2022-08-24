@@ -35,7 +35,7 @@ There are varying forms of assets that can be managed which includes;
 6.	IT asset management; both tangible & intangible company-owned assets and devices
 
 I aim at commencing from Infrastructure Asset Management, studying already existing systems, utilizing my experience as a Data Scientist, Civil Engineer, and Inventory Specialist to review and recommend better systems, proffering solutions to identified gaps, build and apply predictive models available for automation of processes, improving decision making, and improving the overall operation of the facility.
-In this project, I hope to use **Thames Water**; a water services company in the UK as my research case study. `This could change due to availability of relevant data.`
+In this project, I hope to use **Thames Water**; a water services company in the UK as my research case study. `This could change due to availability of supportive data.`
 
 **Project work-flow;**
 1.	Data Sourcing / Web scraping
