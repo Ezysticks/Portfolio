@@ -15,7 +15,7 @@ This is a list of some machine learning projects I worked on or currently workin
 
 ### 1. [FUTURE PROJECT: Asset Management (PRIVATE)]()
 
-![Image header](Pictures/thames_water.png)
+![Image header](Pictures/ms-automated-asset-management.jpg)
 
 With the evolution of times, policies, processes, culture, and trends, companies, and organizations are faced with the challenge of effectively managing, organizing, and maximizing VALUE from investments, acquired assets or holdings, all within acceptable risk and regulatory requirement. This is an enormous challenge as it cuts across all strata of business involvement. When properly deployed, asset management helps stakeholders, decision-makers, and employees predict and oversee the life cycle of an asset. For instance;
 *	Live overseeing of assets
