@@ -1,9 +1,8 @@
-# Data Science Portfolio
+# Data Science Portfolio - Israel Ezema
 
 ## About Me
 
-My name is Israel Ezema,I am a data science professional with over 1 year of experience and a material and inventory specialist with over 3 years of experience at
-ExxonMobil Nigeria. A graduate of Civil Engineering from the Nnamdi Azikiwe University, Awka. More information about my academic journey can be found in [My Resume](https://drive.google.com/file/d/1XBfX3ggRF-Nbl2bj5M3EA5MPNZ9ciATf/view?usp=sharing),  [My Linkedin](https://www.linkedin.com/in/israel-ezema-009530195/), [My Website](https://sites.google.com/view/e-israel/home), and [My Kaggle](https://www.kaggle.com/israelezema).
+I am a data science professional with over 1 year of experience and a material and inventory specialist with over 3 years of experience at ExxonMobil Nigeria. A graduate of Civil Engineering from the Nnamdi Azikiwe University, Awka. More information about my academic journey can be found in [My Resume](https://drive.google.com/file/d/1XBfX3ggRF-Nbl2bj5M3EA5MPNZ9ciATf/view?usp=sharing),  [My Linkedin](https://www.linkedin.com/in/israel-ezema-009530195/), [My Website](https://sites.google.com/view/e-israel/home), and [My Kaggle](https://www.kaggle.com/israelezema).
 
 ## Projects
 
