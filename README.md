@@ -2,11 +2,12 @@
 
 ## About Me
 
-My name is Israel Ezema, I am a Data Scientist, graduate of the Explore’s Data Science Accelerator [Oct 2021] program, and completed my first degree in Civil Engineering at Nnamdi Azikiwe University Awka. More information about my academic journey can be found in [My Website](https://sites.google.com/view/e-israel/home), [My Linkedin](https://www.linkedin.com/in/israel-ezema-009530195/), [My Resume](https://drive.google.com/file/d/1XBfX3ggRF-Nbl2bj5M3EA5MPNZ9ciATf/view?usp=sharing), and [My Kaggle](https://www.kaggle.com/israelezema)
+My name is Israel Ezema,I am a data science professional with over 1 year of experience and a material and inventory specialist with over 3 years of experience at
+ExxonMobil Nigeria. A graduate of Civil Engineering from the Nnamdi Azikiwe University, Awka. More information about my academic journey can be found in [My Resume](https://drive.google.com/file/d/1XBfX3ggRF-Nbl2bj5M3EA5MPNZ9ciATf/view?usp=sharing),  [My Linkedin](https://www.linkedin.com/in/israel-ezema-009530195/), [My Website](https://sites.google.com/view/e-israel/home), and [My Kaggle](https://www.kaggle.com/israelezema).
 
 ## Projects
 
-This is a list of some machine learning projects I worked on or currently working on. It is updated regularly. Click on the projects to see full analysis and code.
+This is a list of some machine learning projects I worked on or currently working on. Click on the projects to see full analysis and code.
 
 **Other Future Interest:**  Medical Diagnosis,  Predictive Maintenance,  Financial Analysis etc.
 
