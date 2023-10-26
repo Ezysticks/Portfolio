@@ -62,7 +62,7 @@ This project was part of the requirement to complete the Unsupervised Predict wi
 
 ### 3. [EDSA/DataWare Solutions - Climate Change Belief Analysis 2022 (PUBLIC)](https://github.com/2110ACDS-T12/classification-predict-streamlit-template/blob/master/Project%20File/5.0%20Advance_Classification_Notebook.ipynb)
 
-![pic](https://camo.githubusercontent.com/c57ebd961169e55085c23e5cea0eddaef383d1aa5ea187f122d6c293552573f5/68747470733a2f2f696d67732e7365617263682e62726176652e636f6d2f6d2d5374454971416f723650656a7a684f31514971566677594650347a6e726645436f30504e7a4464634d2f72733a6669743a313230303a3738383a312f673a63652f6148523063484d364c793930595856692f62574675593239736247566e5a5335312f62576c6a6143356c5a48557663326c302f5a584d765a47566d595856736443396d2f6157786c6379397a64486c735a584d762f5a6d3931636c396a62327831625735662f5a6d5668644856795a53397764574a732f61574d765a6d5668644856795a5752662f615731685a32567a4c304e73615731682f6447557451326868626d646c4c555a6c2f59584a7a587a4175616e426e50326c302f623273395654567063326872515849)
+![pic](Pictures/climate-change-definition-meaning.jpg)
 
 This project was part of the requirement to complete the Classification Predict within EDSA's Data Science course. Companies are constantly in the push for more sustainable business practices, products and services with many increasingly labeling themselves “eco-friendly”, but along with that, like every other business, feasibility is very important, as well as maximising productivity and profitability. Hence the development through the knowledge of the demand & Supply on her goods & services, being able to classify Tweets, messages and comments of her market to sentiment classes. During the course of the project carried out;
 
