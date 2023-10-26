@@ -6,9 +6,10 @@ I am a dedicated professional with expertise in Data Science and Supply Chain Ma
 
 ## Projects
 
-Explore my portfolio of machine learning projects below. Click on each project to access the full analysis and code. I have clear futuristic intentions to develop my data science skill primarily in the area of Supply Chain.
+Explore my portfolio of machine learning projects below. Click on each project to access the full analysis and code. I have clear futuristic intentions to develop my data science skill primarily in the area of Supply Chain, but very well open to innovative challanges in about any field.
 
-**Future Interest:**  Demand Forecasting,  Predictive Maintenance,  Inventory Optimization, Supplier Performance Analysis, Route Optimization, Warehouse Optimization, Quality Control and Defect Detection, Supply Chain Risk Management, Customer Segmentation and Targeting, Optimal Sourcing Strategy, Return Rate Prediction, Sustainability and Green Logistics.
+**Future Interest:**  
+`Demand Forecasting`,  `Predictive Maintenance`,  `Inventory Optimization`, `Supplier Performance Analysis`, `Route Optimization`, `Warehouse Optimization`, `Quality Control and Defect Detection`, `Supply Chain Risk Management`, `Customer Segmentation and Targeting`, `Optimal Sourcing Strategy`, `Return Rate Prediction`, `Sustainability and Green Logistics`.
 
 ---
 
