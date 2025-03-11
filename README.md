@@ -2,18 +2,31 @@
 
 ## About Me
 
-I am a dedicated professional with expertise in Data Science and Supply Chain Material Management. I hold a degree in Civil Engineering from Nnamdi Azikiwe University, Awka. For a comprehensive overview of my academic journey, please refer to [My Resume](https://drive.google.com/file/d/1rrakb1NpvQdLSflyl8bW6tT63VrVR8XC/view?usp=sharing),  [My Linkedin](https://www.linkedin.com/in/israel-ezema-009530195/), [My Website](https://sites.google.com/view/e-israel/home), [Zindi Africa](https://zindi.africa/users/Ezysticks), and [My Kaggle](https://www.kaggle.com/israelezema).
+I am a dedicated professional with expertise in Data Science and Supply Chain Material Management. For a comprehensive overview about me, please refer to [My Resume](https://drive.google.com/file/d/11w3H9FAKSr-blFOwwhg5yoUoAVaYDJoi/view?usp=sharing), [My Website](https://sites.google.com/view/e-israel/home), [My Linkedin](https://www.linkedin.com/in/israel-ezema-009530195/),  [Zindi Africa](https://zindi.africa/users/Ezysticks), and [My Kaggle](https://www.kaggle.com/israelezema).
 
 ## Projects
 
-Explore my portfolio of machine learning projects below. Click on each project to access the full analysis and code. I have clear futuristic intentions to develop my data science skill primarily in the area of Supply Chain, but very well open to innovative challanges in about any field.
+Here are a few projects i have been involved in that's is available to the public domain. Kindly explore, and Click on each project to access the full analysis and code. 
+---
 
-**Future Interest:**  
-`Demand Forecasting`,  `Predictive Maintenance`,  `Inventory Optimization`, `Supplier Performance Analysis`, `Route Optimization`, `Warehouse Optimization`, `Quality Control and Defect Detection`, `Supply Chain Risk Management`, `Customer Segmentation and Targeting`, `Optimal Sourcing Strategy`, `Return Rate Prediction`, `Sustainability and Green Logistics`.
+### 1. [🚀 Full-Stack NLP Preparing Text Data from Emails, PDFs, and Web for AI Training (PUBLIC)](https://github.com/Ezysticks/--Full-Stack-NLP-Preparing-Text-Data-from-Emails--PDFs--and-Web-for-AI-Training)
+
+![Full-Stack NLP Preparing Text Data from Emails, PDFs, and Web for AI Training](Pictures/Fullstack_NLP.png)
+
+This project implements a complete text data pipeline for LLM fine-tuning. It automates the extraction, cleaning, and formatting of text data from multiple sources—emails (IMAP), PDFs (pdfplumber), and web scraping (BeautifulSoup). The processed data is converted into JSONL format for seamless integration with Hugging Face Transformers. Additionally, it includes data manipulation with Pandas and fine-tuning an LLM model for custom AI applications.  
+ 
+ 🔹 Key Features: 
+    ✅ Extract & clean text from Emails, PDFs, and Web 
+    ✅ Convert text to JSONL format for fine-tuning 
+    ✅ Load and analyze processed data with Pandas 
+    ✅ Fine-tune and test a custom LLM model  
+    
+📌 **Tech Stack:** Python, NLP, Transformers, IMAP, pdfplumber, BeautifulSoup, Pandas  
+
 
 ---
 
-### 1. [EDSA/AiGlass: Carbon Emission Analysis & Prediction (PUBLIC)](https://github.com/EDSA-Internship-Group-3/co2-emission-analysis)
+### 2. [EDSA/AiGlass: Carbon Emission Analysis & Prediction (PUBLIC)](https://github.com/EDSA-Internship-Group-3/co2-emission-analysis)
 
 ![Comparison: Top 20 Countries with CO2_Emission_per_Capita](Pictures/CO2_emmision_comparison.png)
 
@@ -44,7 +57,7 @@ We further Normalized and enriched the dataset with extra features from the [Wor
 ---
 
 
-### 2. [EDSA/AI Incorporated: Streamlit-based: Movie Recommender System (PUBLIC)](https://github.com/2110ACDS-T4/unsupervised-predict-streamlit-template/blob/master/Team%204/Notebooks/3.0_EDSA_movie_recommendation_2022_Notebook.ipynb)
+### 3. [EDSA/AI Incorporated: Streamlit-based: Movie Recommender System (PUBLIC)](https://github.com/2110ACDS-T4/unsupervised-predict-streamlit-template/blob/master/Team%204/Notebooks/3.0_EDSA_movie_recommendation_2022_Notebook.ipynb)
 
 ![Image header](https://github.com/2110ACDS-T4/unsupervised-predict-streamlit-template/blob/master/resources/imgs/Image_header.png)
 
@@ -61,7 +74,7 @@ This project was part of the requirement to complete the Unsupervised Predict wi
 ---
 
 
-### 3. [EDSA/DataWare Solutions - Climate Change Belief Analysis 2022 (PUBLIC)](https://github.com/2110ACDS-T12/classification-predict-streamlit-template/blob/master/Project%20File/5.0%20Advance_Classification_Notebook.ipynb)
+### 4. [EDSA/DataWare Solutions - Climate Change Belief Analysis 2022 (PUBLIC)](https://github.com/2110ACDS-T12/classification-predict-streamlit-template/blob/master/Project%20File/5.0%20Advance_Classification_Notebook.ipynb)
 
 ![pic](Pictures/climate-change-definition-meaning.jpg)
 
@@ -80,7 +93,7 @@ This project was part of the requirement to complete the Classification Predict 
 
 ---
 
-### 4. [EDSA Classification Hackathon: South African language Identification (PUBLIC)](https://github.com/Ezysticks/south_african_language_identification)
+### 5. [EDSA Classification Hackathon: South African language Identification (PUBLIC)](https://github.com/Ezysticks/south_african_language_identification)
 
 ![pic](https://camo.githubusercontent.com/43ac0c5125127da70afff57a96fbf4044e446209d6961a2f7fb4258951ad53f4/68747470733a2f2f7777772e676f6f676c65617069732e636f6d2f646f776e6c6f61642f73746f726167652f76312f622f6b6167676c652d757365722d636f6e74656e742f6f2f696e626f78253246323230353232322532463766333435343463316231663631643161353934396264646163666438346139253246536f7574685f4166726963615f6c616e6775616765735f323031312e6a70673f67656e65726174696f6e3d3136303433393336363933333930333426616c743d6d65646961)
 
@@ -98,7 +111,7 @@ In this project, I:
 
 ---
 
-### 5. [EDSA: Spain Electricity Shortfall Challenge (PUBLIC)](https://github.com/Ezysticks/load-shortfall-regression-predict-api/blob/master/Advanced-Regression-Starter-Data/Versions_Team_9_EDSA/3.1%20starter-notebook-checkpoint_.ipynb)
+### 6. [EDSA: Spain Electricity Shortfall Challenge (PUBLIC)](https://github.com/Ezysticks/load-shortfall-regression-predict-api/blob/master/Advanced-Regression-Starter-Data/Versions_Team_9_EDSA/3.1%20starter-notebook-checkpoint_.ipynb)
 
 ![pic](Pictures/explore-edsa-image.jpg)
 
@@ -122,3 +135,6 @@ It was a Time Series project of which I went through the entire data science lif
 **Keywords:** Data Wrangling, EDA, Feature Engineering, Handling missing values, Modelling, Hypertunning
 
 ---
+
+**Future Interest:**  
+`Demand Forecasting`,  `Predictive Maintenance`,  `Inventory Optimization`, `Supplier Performance Analysis`, `Route Optimization`, `Warehouse Optimization`, `Quality Control and Defect Detection`, `Supply Chain Risk Management`, `Customer Segmentation and Targeting`, `Optimal Sourcing Strategy`, `Return Rate Prediction`, `Sustainability and Green Logistics`.
