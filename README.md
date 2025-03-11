@@ -9,7 +9,7 @@ I am a dedicated professional with expertise in Data Science and Supply Chain Ma
 Here are a few projects i have been involved in that's is available to the public domain. Kindly explore, and Click on each project to access the full analysis and code. 
 ---
 
-### 1. [🚀 Full-Stack NLP Preparing Text Data from Emails, PDFs, and Web for AI Training (PUBLIC)](https://github.com/Ezysticks/--Full-Stack-NLP-Preparing-Text-Data-from-Emails--PDFs--and-Web-for-AI-Training)
+### 1. [🚀 Full-Stack NLP Preparing Text Data from Emails, PDFs, and Web for AI Training (PUBLIC)](https://github.com/Ezysticks/-Full-Stack-NLP-Preparing-Text-Data-from-Emails-PDFs-and-Web-for-AI-Training)
 
 ![Full-Stack NLP Preparing Text Data from Emails, PDFs, and Web for AI Training](Pictures/Fullstack_NLP.png)
 
